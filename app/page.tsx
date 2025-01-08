@@ -27,7 +27,7 @@ export default function Home() {
       <Content />
       <Services />
       <ServiceImages ImageDetails={ImageDetails} />
-      <h1>Hello, world v2</h1>
+      <h1>Hello, world v3</h1>
     </div>
   );
 }
